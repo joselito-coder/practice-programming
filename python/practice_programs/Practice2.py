@@ -1,5 +1,6 @@
 # This problem is taken from  https://www.codeabbey.com
 
+# Sum in Loop
 # Input data has the following format:
 #     first line contains N - amount of values to sum;
 #     second line contains N values themselves.
